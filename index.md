@@ -19,7 +19,7 @@ CEA (Leti & List) · Université Paris-Saclay
 
 Robotic manipulation in critical environements.
 
-TraceBot is an EU project developing robotic systems that can **verify and trace manipulation actions** (“audit trail”) for regulated environments, with a focus on handling sterile medical products. :contentReference[oaicite:1]{index=1}
+TraceBot is an EU project developing robotic systems that can **verify and trace manipulation actions** (“audit trail”) for regulated environments, with a focus on handling sterile medical products. 
 
 <div style="max-width:920px; margin:0 auto; padding:0 16px;">
 
@@ -50,7 +50,7 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 <div style="max-width:920px; margin:0 auto; padding:0 16px;">
 
-  <table style="width:100%; border-collapse:collapse;">
+  <table style="width:80%; border-collapse:collapse;">
     <tr>
       <td width="40%" valign="middle" align="center" style="padding:6px;">
         <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
