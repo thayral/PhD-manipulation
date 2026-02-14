@@ -91,23 +91,6 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 </div>
 
 
-<details>
-  <summary><strong>Modular, multifingered gripper (hardware · simulation · kinematics)</strong></summary>
-
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/three_views_of_gripper.png"
-         style="width:100%; height:auto; display:block;"
-         alt="Three views of the gripper: hardware photo, digital twin, and kinematic chain">
-  </div>
-
-  <div style="width:55%; margin:0 auto; color:#444;">
-    <ul>
-      <li><strong>Four-fingered, 14-DoF gripper</strong></li>
-      <li><strong>Haptic sensing</strong> capabilities</li>
-      <li><strong>Hybrid tactile pads</strong> on each phalanx and on the palm</li>
-    </ul>
-  </div>
-</details>
 
 
 
@@ -183,11 +166,16 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
       Piezoelectric sensors capture high-frequency dynamics,
       enabling detection of dynamic tactile events and incipient slip.
     </p>
-    <p>
-      → <a href="https://github.com/thayral/tactile-slip-detection-pze">
-        Learn more about tactile slip detection
-      </a>
-    </p>
+  <ul>
+    <li><strong>Piezoelectric PVDF–TrFE</strong> tactile transducers</li>
+    <li><strong>High-bandwidth sensing</strong>: 10 kHz sampling (30 Hz – 2.5 kHz effective)</li>
+    <li>Captures <strong>friction-induced vibrations</strong> and dynamic slip events</li>
+  </ul>
+  <p>
+    → <a href="https://github.com/thayral/tactile-slip-detection-pze">
+      Slip detection using spectro-temporal learning
+    </a>
+  </p>
   </div>
 </details>
 
@@ -215,11 +203,16 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
       Piezoresistive arrays provide pressure distribution and contact localization,
       supporting grasp modeling and internal force coordination.
     </p>
-    <p>
-      → <a href="https://github.com/thayral/reactive-slip-control">
-        See how PzR sensing is used in reactive slip control
-      </a>
-    </p>
+  <ul>
+    <li><strong>Piezoresistive polymer (Velostat™)</strong> tactile arrays</li>
+    <li><strong>8×8 taxel matrix</strong> from orthogonal electrode sheets</li>
+    <li>Provides <strong>pressure distribution</strong>, contact area, and CoP estimation</li>
+  </ul>
+  <p>
+    → <a href="https://github.com/thayral/reactive-slip-control">
+      Use in contact estimation for internal-force control
+    </a>
+  </p>
   </div>
 </details>
 
