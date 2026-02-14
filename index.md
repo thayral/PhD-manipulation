@@ -267,6 +267,19 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 
 
 
+---
+
+
+## Code & Resources
+
+
+- **Demo (minimal runnable example):** soon
+- **Training / research code (implementation details):** soon
+- **Slides (full, for deep dive):** [https://thayral.github.io/phd-defense-slides/](https://thayral.github.io/phd-defense-slides/)
+- **Thesis manuscript (PDF):** [[https://github.com/thayral/<thesis-repo-or-pdf-link>](https://theses.hal.science/tel-05468226)](https://theses.hal.science/tel-05468226)
+
+
+
 <table>
   <tr>
     <td>
@@ -279,15 +292,6 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 
 
 
-
-
-## Code & Resources
-
-
-- **Demo (minimal runnable example):** https://github.com/thayral/<demo-repo>
-- **Training / research code (implementation details):** https://github.com/thayral/<training-repo>
-- **Slides (full, for deep dive):** https://thayral.github.io/phd-defense-slides/
-- **Thesis manuscript (PDF):** https://github.com/thayral/<thesis-repo-or-pdf-link>
 
 ## Contact
 
