@@ -115,32 +115,8 @@ Critical environments GIF + robotisation
 - PzE: high-bandwidth friction-vibration sensing (slip cues)
 - PzR: spatial pressure/contact localization (contact geometry update)
 
-<!-- TEMPLATE: image (static figure / photo) -->
-<p>
-  <img src="assets/figures/setup_photo.png" width="820" alt="Experimental setup photo">
-</p>
-<em>Figure: Multi-finger gripper instrumented with hybrid tactile pads.</em>
 
 
-
-
-## GRIPPER
-
-<!-- Vimeo embed (works on GitHub Pages) -->
-<div style="max-width:900px;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe
-      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
-      style="position:absolute; top:0; left:0; width:100%; height:100%;"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-</div>
-
-
-## GRIPPER MOSAIC GIF
 ## Gripper demos (TraceBot context) {#gripper-demos}
 
 <div style="max-width:920px; margin:0 auto; padding:0 16px;">
@@ -176,18 +152,41 @@ Critical environments GIF + robotisation
 
 
 
-## GRIPPER 3 views
-## GRIPPER BIMANUAL
+## GRIPPER
+
+<!-- Vimeo embed (works on GitHub Pages) -->
+<div style="max-width:900px;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe
+      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
+      style="position:absolute; top:0; left:0; width:60%; height:60%;"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 
 ## FINGER SENSOR
 ## maybe sensors signals (after problem)
 
-## CONTRIBUTIONS
 
 
 
-## GRIPPER BIMANUAL
-## GRIPPER MOSAIC GIF
+
+<table>
+  <tr>
+    <td>
+      <a href="https://thayral.github.io/phd-defense-slides/">
+        <img src="media/miniature_beamer.gif" width="420" alt="Slides">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ## Code & Resources
