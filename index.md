@@ -132,8 +132,8 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 
 
-<details>
-  <summary><strong>Piezoelectric tactile sensing (PzE) — slip detection</strong></summary>
+<details style="margin:16px 0; padding:8px 12px; border-left:3px solid #ddd;">
+  <summary style="cursor:pointer; font-weight:600;"><strong>Piezoelectric tactile sensing (PzE) — slip detection</strong></summary>
 
 <table style="width:70%; margin:16px auto; border-collapse:collapse;">
   <tr>
@@ -169,8 +169,8 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 </details>
 
 
-<details>
-  <summary><strong>Piezoresistive tactile arrays (PzR) — contact estimation</strong></summary>
+<details style="margin:16px 0; padding:8px 12px; border-left:3px solid #ddd;">
+  <summary style="cursor:pointer; font-weight:600;"><strong>Piezoresistive tactile arrays (PzR) — contact estimation</strong></summary>
 
 <table style="width:70%; margin:16px auto; border-collapse:collapse;">
   <tr>
