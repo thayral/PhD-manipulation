@@ -19,6 +19,26 @@ CEA (Leti & List) · Université Paris-Saclay
 
 ---
 
+<p align="center">
+  <a href="https://thayral.github.io/PhD-manipulation/">
+    <img src="media/TraceBot_bimanual_setup.jpg" width="820" alt="TraceBot bimanual manipulation setup">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://thayral.github.io/PhD-manipulation/">
+    <img src="media/TraceBOT_logo.png" width="140" alt="TraceBot project logo">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    → Learn more about the TraceBot project and experimental platform on my PhD project page
+  </strong><br>
+  <a href="https://thayral.github.io/PhD-manipulation/">
+    https://thayral.github.io/PhD-manipulation/
+  </a>
+</p>
 
 
 
