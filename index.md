@@ -87,8 +87,8 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 
 
-<details>
-  <summary><strong>Multifingered gripper & actuation</strong></summary>
+<details style="margin:16px 0; padding:8px 12px; border-left:3px solid #ddd;">
+  <summary style="cursor:pointer; font-weight:600;"><strong>Multifingered gripper & actuation</strong></summary>
 
 <div style="width:70%; margin:16px auto;">
   <img src="media/three_views_of_gripper.png"
