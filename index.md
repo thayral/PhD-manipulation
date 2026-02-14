@@ -111,7 +111,7 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 
 
-## Hardware platform (overview)
+## Hardware
 
 
 
@@ -140,22 +140,10 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
   </div>
 
 
-<!-- Vimeo embed (works on GitHub Pages) -->
-<div style="max-width:900px;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe
-      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
-      style="position:absolute; top:0; left:0; width:40%; height:40%;"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-</div>
 
 
 
-<div style="width:70%; margin:16px auto;">
+<div style="width:40%; margin:16px auto;">
   <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
     <iframe
       src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
