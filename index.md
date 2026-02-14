@@ -113,9 +113,6 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 ## Hardware platform (overview)
 
-- **Multifingered gripper** with haptic actuation
-- **Piezoelectric tactile sensing (PzE)** for slip detection
-- **Piezoresistive tactile arrays (PzR)** for contact localization and force distribution
 
 
 <details>
