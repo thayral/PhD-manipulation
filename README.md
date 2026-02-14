@@ -42,6 +42,19 @@ CEA (Leti & List) · Université Paris-Saclay
 - **Slides (full, for deep dive):** https://thayral.github.io/phd-defense-slides/
 - **Thesis manuscript (PDF):** https://github.com/thayral/<thesis-repo-or-pdf-link>
 
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://thayral.github.io/phd-defense-slides/">
+        <img src="media/miniature_beamer.gif" width="420" alt="Slides">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## Contact
 
 - Email: 
