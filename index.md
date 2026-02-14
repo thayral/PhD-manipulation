@@ -118,17 +118,18 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 <details>
   <summary><strong>Multifingered gripper & actuation</strong></summary>
 
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/three_views_of_gripper.png"
-         style="width:100%; height:auto; display:block;"
-         alt="Gripper: hardware, digital twin, kinematic chain">
-  </div>
+<div style="width:70%; margin:16px auto;">
+  <img src="media/three_views_of_gripper.png"
+       style="height: clamp(120px, 18vh, 180px); width:100%; object-fit:contain; display:block; margin:0 auto;"
+       alt="Gripper: hardware, digital twin, kinematic chain">
+</div>
 
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/motor_haptics.png"
-         style="width:100%; height:auto; display:block;"
-         alt="Backdrivable tendon actuation">
-  </div>
+<div style="width:70%; margin:16px auto;">
+  <img src="media/motor_haptics.png"
+       style="height: clamp(120px, 18vh, 180px); width:100%; object-fit:contain; display:block; margin:0 auto;"
+       alt="Backdrivable tendon actuation">
+</div>
+
 
   <div style="width:55%; margin:0 auto; color:#444;">
     <ul>
@@ -152,6 +153,21 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
   </div>
 </div>
 
+
+
+<div style="width:70%; margin:16px auto;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe
+      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
+      style="position:absolute; top:0; left:0; width:100%; height:100%;"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
 </details>
 
 
@@ -159,17 +175,20 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 <details>
   <summary><strong>Piezoelectric tactile sensing (PzE) — slip detection</strong></summary>
 
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/pze_structure.PNG"
-         style="width:100%; height:auto; display:block;"
-         alt="Piezoelectric tactile sensor">
-  </div>
-
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/pze_signal.png"
-         style="width:100%; height:auto; display:block;"
-         alt="PzE vibration signal">
-  </div>
+<table style="width:70%; margin:16px auto; border-collapse:collapse;">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="padding:6px;">
+      <img src="media/pze_structure.PNG"
+           style="height: clamp(110px, 14vh, 160px); width:100%; object-fit:contain; display:block;"
+           alt="Piezoelectric tactile sensor structure">
+    </td>
+    <td width="50%" align="center" valign="middle" style="padding:6px;">
+      <img src="media/pze_signal.png"
+           style="height: clamp(110px, 14vh, 160px); width:100%; object-fit:contain; display:block;"
+           alt="PzE vibration signal">
+    </td>
+  </tr>
+</table>
 
   <div style="width:55%; margin:0 auto; color:#444;">
     <p>
@@ -188,17 +207,20 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 <details>
   <summary><strong>Piezoresistive tactile arrays (PzR) — contact estimation</strong></summary>
 
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/pzr_structure.png"
-         style="width:100%; height:auto; display:block;"
-         alt="Piezoresistive tactile array">
-  </div>
-
-  <div style="width:55%; margin:16px auto;">
-    <img src="media/pzr_signal.png"
-         style="width:100%; height:auto; display:block;"
-         alt="Contact localization and pressure distribution">
-  </div>
+<table style="width:70%; margin:16px auto; border-collapse:collapse;">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="padding:6px;">
+      <img src="media/pzr_structure.png"
+           style="height: clamp(110px, 14vh, 160px); width:100%; object-fit:contain; display:block;"
+           alt="Piezoresistive array structure">
+    </td>
+    <td width="50%" align="center" valign="middle" style="padding:6px;">
+      <img src="media/pzr_signal.png"
+           style="height: clamp(110px, 14vh, 160px); width:100%; object-fit:contain; display:block;"
+           alt="PzR pressure/contact visualization">
+    </td>
+  </tr>
+</table>
 
   <div style="width:55%; margin:0 auto; color:#444;">
     <p>
