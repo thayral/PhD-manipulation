@@ -209,6 +209,17 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 ## Contributions
 
+The contributions build on each other, following the narrative flow of the thesis:
+
+<div style="max-width:920px; margin:16px auto; padding:0 16px;">
+  <div style="width:75%; margin:0 auto;">
+    <img src="media/outline-of-thesis-contrib.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Thesis contribution flow: slip detection → robustness → reactive slip control">
+  </div>
+</div>
+
+
 ### C1 — Early slip detection from tactile vibrations
 Detect **incipient slip** from high-bandwidth tactile vibrations using learning-based spectro-temporal analysis, operating in **real time (100 Hz)**.
 
