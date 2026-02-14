@@ -91,6 +91,57 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 </div>
 
 
+<details>
+  <summary><strong>Modular, multifingered gripper (hardware · simulation · kinematics)</strong></summary>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/three_views_of_gripper.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Three views of the gripper: hardware photo, digital twin, and kinematic chain">
+  </div>
+
+  <div style="width:55%; margin:0 auto; color:#444;">
+    <ul>
+      <li><strong>Four-fingered, 14-DoF gripper</strong></li>
+      <li><strong>Haptic sensing</strong> capabilities</li>
+      <li><strong>Hybrid tactile pads</strong> on each phalanx and on the palm</li>
+    </ul>
+  </div>
+</details>
+
+
+
+## Hardware platform (overview)
+
+- **Multifingered gripper** with haptic actuation
+- **Piezoelectric tactile sensing (PzE)** for slip detection
+- **Piezoresistive tactile arrays (PzR)** for contact localization and force distribution
+
+
+<details>
+  <summary><strong>Multifingered gripper & actuation</strong></summary>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/three_views_of_gripper.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Gripper: hardware, digital twin, kinematic chain">
+  </div>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/motor_haptics.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Backdrivable tendon actuation">
+  </div>
+
+  <div style="width:55%; margin:0 auto; color:#444;">
+    <ul>
+      <li><strong>Four-fingered, 14-DoF gripper</strong></li>
+      <li><strong>Backdrivable tendon actuation</strong> enabling haptic interaction</li>
+      <li>Designed for multi-contact grasping and internal force control</li>
+    </ul>
+  </div>
+
+
 <!-- Vimeo embed (works on GitHub Pages) -->
 <div style="max-width:900px;">
   <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
@@ -104,8 +155,66 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
   </div>
 </div>
 
+</details>
 
-## Tactile sensing
+
+
+<details>
+  <summary><strong>Piezoelectric tactile sensing (PzE) — slip detection</strong></summary>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/pze_structure.PNG"
+         style="width:100%; height:auto; display:block;"
+         alt="Piezoelectric tactile sensor">
+  </div>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/pze_signal.png"
+         style="width:100%; height:auto; display:block;"
+         alt="PzE vibration signal">
+  </div>
+
+  <div style="width:55%; margin:0 auto; color:#444;">
+    <p>
+      Piezoelectric sensors capture high-frequency dynamics,
+      enabling detection of dynamic tactile events and incipient slip.
+    </p>
+    <p>
+      → <a href="https://github.com/thayral/tactile-slip-detection-pze">
+        Learn more about tactile slip detection
+      </a>
+    </p>
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>Piezoresistive tactile arrays (PzR) — contact estimation</strong></summary>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/pzr_structure.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Piezoresistive tactile array">
+  </div>
+
+  <div style="width:55%; margin:16px auto;">
+    <img src="media/pzr_signal.png"
+         style="width:100%; height:auto; display:block;"
+         alt="Contact localization and pressure distribution">
+  </div>
+
+  <div style="width:55%; margin:0 auto; color:#444;">
+    <p>
+      Piezoresistive arrays provide pressure distribution and contact localization,
+      supporting grasp modeling and internal force coordination.
+    </p>
+    <p>
+      → <a href="https://github.com/thayral/reactive-slip-control">
+        See how PzR sensing is used in reactive slip control
+      </a>
+    </p>
+  </div>
+</details>
 
 
 
