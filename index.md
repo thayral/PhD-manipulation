@@ -55,9 +55,6 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 
 ## TraceBot / manipulation platform
-- Multi-finger gripper with **hybrid tactile sensing**
-- PzE: high-bandwidth friction-vibration sensing 
-- PzR: spatial pressure/contact localization 
 
 <div style="max-width:920px; margin:0 auto; padding:0 16px;">
 
