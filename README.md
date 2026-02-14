@@ -8,14 +8,6 @@ title: Learning-based slip detection for adaptive grasp control
 **PhD Thesis Project — Théo Ayral**  
 CEA (Leti & List) · Université Paris-Saclay
 
-<p style="margin-top:0.5rem;">
-  <a href="#publications">Publications</a> ·
-  <a href="#code--resources">Code & Resources</a> ·
-  <a href="#setup--benches">Setup</a> ·
-  <a href="#method">Method</a> ·
-  <a href="#results">Results</a> ·
-  <a href="#latency">Latency</a>
-</p>
 
 ---
 
