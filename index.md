@@ -21,7 +21,95 @@ CEA (Leti & List) · Université Paris-Saclay
 
 
 
-## Contributions and related work
+
+
+## CONTEXT: TraceBot Project
+
+Robotic manipulation in critical environements.
+
+TraceBot is an EU project developing robotic systems that can **verify and trace manipulation actions** (“audit trail”) for regulated environments, with a focus on handling sterile medical products. :contentReference[oaicite:1]{index=1}
+
+<div style="max-width:920px; margin:0 auto; padding:0 16px;">
+
+  <div style="width:60%; margin:14px auto 6px auto;">
+    <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+      <source src="media/tracebot-process.mp4" type="video/mp4">
+    </video>
+
+    <div style="height:10px;"></div>
+
+    <img src="media/grippermorphism.png" style="width:100%; height:auto; display:block;" alt="Gripper morphism / project overview">
+  </div>
+
+  <!-- Bottom-right logo -->
+  <div style="width:60%; margin:0 auto;">
+    <div style="text-align:right;">
+      <a href="https://www.tracebot.eu/">
+        <img src="media/TraceBOT_logo.png" style="width:100px; height:auto;" alt="TraceBot logo">
+      </a>
+    </div>
+  </div>
+
+</div>
+
+
+
+## TraceBot / manipulation platform
+- Multi-finger gripper with **hybrid tactile sensing**
+- PzE: high-bandwidth friction-vibration sensing 
+- PzR: spatial pressure/contact localization 
+
+<div style="max-width:920px; margin:0 auto; padding:0 16px;">
+
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td width="40%" valign="middle" align="center" style="padding:6px;">
+        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+          <source src="media/gripper_demo_2_640.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td width="40%" valign="middle" align="center" style="padding:6px;">
+        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+          <source src="media/gripper_demo_3_640.mp4" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" valign="middle" align="center" style="padding:6px;">
+        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+          <source src="media/gripper_demo_6_640.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td width="40%" valign="middle" align="center" style="padding:6px;">
+        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+          <source src="media/gripper_demo_10_640.mp4" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+<!-- Vimeo embed (works on GitHub Pages) -->
+<div style="max-width:900px;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe
+      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
+      style="position:absolute; top:0; left:0; width:40%; height:40%;"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+## Tactile sensing
+
+
+
+## Contributions
 
 ### C1 — Early slip detection from tactile vibrations
 Detect **incipient slip** from high-bandwidth tactile vibrations using learning-based spectro-temporal analysis, operating in **real time (100 Hz)**.
@@ -77,124 +165,6 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 **Project page**
 - → Reactive slip control:  
   https://github.com/thayral/reactive-slip-control
-
-
----
-
-## Publications
-
-- **AIM 2023 (published)**  
-  *Spectro-Temporal Recurrent Neural Network for Robotic Slip Detection with Piezoelectric Tactile Sensor*  
-  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
-
-- **(in preparation)**  
-  *Robust Tactile Slip Detection under Manipulation Perturbations*  
-  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
-
-- **ICRA 2026 (accepted)**  
-  *Reactive Slip Control in Multifingered Grasping: Hybrid Tactile Sensing and Internal-Force Optimization*  
-  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
-
-- **Patent application (2025)**  
-  *Robotic gripper and control method*  
-  M. Grossard, S. Aloui, T. Ayral — US Patent Application 19/011,931
-
-
----
-
-
-## CONTEXT 
-
-Robotic manipulation in critical environements.
-
-TraceBot is an EU project developing robotic systems that can **verify and trace manipulation actions** (“audit trail”) for regulated environments, with a focus on handling sterile medical products. :contentReference[oaicite:1]{index=1}
-
-<div style="max-width:920px; margin:0 auto; padding:0 16px;">
-
-  <div style="width:78%; margin:14px auto 6px auto;">
-    <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
-      <source src="media/tracebot-process.mp4" type="video/mp4">
-    </video>
-
-    <div style="height:10px;"></div>
-
-    <img src="media/grippermorphism.png" style="width:100%; height:auto; display:block;" alt="Gripper morphism / project overview">
-  </div>
-
-  <!-- Bottom-right logo -->
-  <div style="width:78%; margin:0 auto;">
-    <div style="text-align:right;">
-      <a href="https://www.tracebot.eu/">
-        <img src="media/TraceBOT_logo.png" style="width:140px; height:auto;" alt="TraceBot logo">
-      </a>
-    </div>
-  </div>
-
-</div>
-
-
-
-### TraceBot / manipulation platform
-- Multi-finger gripper with **hybrid tactile sensing**
-- PzE: high-bandwidth friction-vibration sensing (slip cues)
-- PzR: spatial pressure/contact localization (contact geometry update)
-
-
-
-## Gripper demos (TraceBot context) {#gripper-demos}
-
-<div style="max-width:920px; margin:0 auto; padding:0 16px;">
-
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <td width="50%" valign="middle" align="center" style="padding:6px;">
-        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
-          <source src="media/gripper_demo_2_640.mp4" type="video/mp4">
-        </video>
-      </td>
-      <td width="50%" valign="middle" align="center" style="padding:6px;">
-        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
-          <source src="media/gripper_demo_3_640.mp4" type="video/mp4">
-        </video>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="middle" align="center" style="padding:6px;">
-        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
-          <source src="media/gripper_demo_6_640.mp4" type="video/mp4">
-        </video>
-      </td>
-      <td width="50%" valign="middle" align="center" style="padding:6px;">
-        <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
-          <source src="media/gripper_demo_10_640.mp4" type="video/mp4">
-        </video>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
-
-## GRIPPER
-
-<!-- Vimeo embed (works on GitHub Pages) -->
-<div style="max-width:900px;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe
-      src="https://player.vimeo.com/video/1056472782?h=0&title=0&byline=0&portrait=0"
-      style="position:absolute; top:0; left:0; width:60%; height:60%;"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-</div>
-
-
-## FINGER SENSOR
-## maybe sensors signals (after problem)
-
 
 
 
