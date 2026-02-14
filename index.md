@@ -104,9 +104,33 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 
 
 ## CONTEXT 
-Critical environments GIF + robotisation
 
+Robotic manipulation in critical environements.
 
+TraceBot is an EU project developing robotic systems that can **verify and trace manipulation actions** (“audit trail”) for regulated environments, with a focus on handling sterile medical products. :contentReference[oaicite:1]{index=1}
+
+<div style="max-width:920px; margin:0 auto; padding:0 16px;">
+
+  <div style="width:78%; margin:14px auto 6px auto;">
+    <video autoplay loop muted playsinline style="width:100%; height:auto; display:block;">
+      <source src="media/tracebot-process.mp4" type="video/mp4">
+    </video>
+
+    <div style="height:10px;"></div>
+
+    <img src="media/grippermorphism.png" style="width:100%; height:auto; display:block;" alt="Gripper morphism / project overview">
+  </div>
+
+  <!-- Bottom-right logo -->
+  <div style="width:78%; margin:0 auto;">
+    <div style="text-align:right;">
+      <a href="https://www.tracebot.eu/">
+        <img src="media/TraceBOT_logo.png" style="width:140px; height:auto;" alt="TraceBot logo">
+      </a>
+    </div>
+  </div>
+
+</div>
 
 
 
