@@ -40,7 +40,7 @@ CEA (Leti & List) · Université Paris-Saclay
 - **Demo (minimal runnable example):** [https://github.com/thayral/tactile-slip-detection-pze](https://github.com/thayral/tactile-slip-detection-pze)
 - **Training / research code (implementation details):** (in preparation)
 - **Slides (full, for deep dive):** [https://thayral.github.io/phd-defense-slides/](https://thayral.github.io/phd-defense-slides/)
-- **Thesis manuscript (PDF):** [https://github.com/thayral/<thesis-repo-or-pdf-link>](https://theses.hal.science/tel-05468226)
+- **Thesis manuscript (PDF):** [https://theses.hal.science/tel-05468226](https://theses.hal.science/tel-05468226)
 
 
 
