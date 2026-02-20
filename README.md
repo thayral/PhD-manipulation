@@ -56,7 +56,9 @@ CEA (Leti & List) · Université Paris-Saclay
 
 
 ## Contact
+Théo AYRAL
 
-- Email: 
-- Scholar / website: 
-- GitHub: https://github.com/thayral
+➡️ This work is part of the PhD thesis  
+**Learning-based slip detection for adaptive grasp control**  
+CEA (Leti & List) · Université Paris-Saclay
+[https://github.com/thayral/PhD-manipulation](https://github.com/thayral/PhD-manipulation)
