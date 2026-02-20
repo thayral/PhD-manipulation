@@ -62,3 +62,9 @@ Théo AYRAL
 **Learning-based slip detection for adaptive grasp control**  
 CEA (Leti & List) · Université Paris-Saclay
 [https://github.com/thayral/PhD-manipulation](https://github.com/thayral/PhD-manipulation)
+
+
+- **ICRA 2026 (accepted)**  
+  *Reactive Slip Control in Multifingered Grasping: Hybrid Tactile Sensing and Internal-Force Optimization*   
+  Théo Ayral, Saifeddine Aloui, Mathieu Grossard  
+  [https://thayral.github.io/reactive-slip-control/](https://thayral.github.io/reactive-slip-control/)
