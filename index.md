@@ -228,13 +228,9 @@ Detect **incipient slip** from high-bandwidth tactile vibrations using learning-
   *Spectro-Temporal Recurrent Neural Network for Robotic Slip Detection with Piezoelectric Tactile Sensor*  
   Théo Ayral, Saifeddine Aloui, Mathieu Grossard
 
-- *(in preparation)*  
-  *Robust Tactile Slip Detection under Manipulation Perturbations*  
-  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
-
 **Project page**
-- → Tactile slip detection:  
-  https://github.com/thayral/tactile-slip-detection-pze
+- → GitHub demo:  
+  [https://github.com/thayral/tactile-slip-demo](https://github.com/thayral/tactile-slip-demo)
 
 
 ---
@@ -249,14 +245,8 @@ Improve robustness to transient events and actuation noise through **perturbatio
 **Related publications**
 - *(in preparation)*  
   *Robust Tactile Slip Detection under Manipulation Perturbations*
-
-**Project pages**
-- → Tactile slip detection (training & data):  
-  https://github.com/thayral/tactile-slip-detection-pze
-- → Reactive slip control (use in closed loop):  
-  https://github.com/thayral/reactive-slip-control
-
-
+  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
+  
 ---
 
 ### C3 — Closed-loop adaptation of grasp forces
@@ -267,13 +257,14 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
   *Reactive Slip Control in Multifingered Grasping: Hybrid Tactile Sensing and Internal-Force Optimization*  
   Théo Ayral, Saifeddine Aloui, Mathieu Grossard
 
+
 - **Patent application (2025)**  
   *Robotic gripper and control method*  
   M. Grossard, S. Aloui, T. Ayral — US Patent Application 19/011,931
 
 **Project page**
 - → Reactive slip control:  
-  https://github.com/thayral/reactive-slip-control
+  [https://github.com/thayral/reactive-slip-control](https://thayral.github.io/reactive-slip-control/)
 
 
 
