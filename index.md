@@ -161,8 +161,8 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
     <li>Captures <strong>friction-induced vibrations</strong> and dynamic slip events</li>
   </ul>
   <p>
-    → <a href="https://github.com/thayral/tactile-slip-detection-pze">
-      Slip detection using spectro-temporal learning
+    → <a href="https://thayral.github.io/tactile-slip-detection-pze/">
+      Project page for slip detection using spectro-temporal learning
     </a>
   </p>
   </div>
@@ -198,8 +198,8 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
     <li>Provides <strong>pressure distribution</strong>, contact area, and CoP estimation</li>
   </ul>
   <p>
-    → <a href="https://github.com/thayral/reactive-slip-control">
-      Use in contact estimation for internal-force control
+    → <a href="https://thayral.github.io/reactive-slip-control/">
+      Project page for internal-force control
     </a>
   </p>
   </div>
@@ -207,6 +207,7 @@ TraceBot is an EU project developing robotic systems that can **verify and trace
 
 
 
+---
 ## Contributions
 
 The contributions build on each other, following the narrative flow of the thesis:
@@ -233,7 +234,6 @@ Detect **incipient slip** from high-bandwidth tactile vibrations using learning-
   [https://github.com/thayral/tactile-slip-demo](https://github.com/thayral/tactile-slip-demo)
 
 
----
 
 ### C2 — Data-driven robustness to manipulation perturbations
 Improve robustness to transient events and actuation noise through **perturbation-aware training** and haptic data fusion, reducing false alarms while preserving low detection latency.
@@ -247,7 +247,6 @@ Improve robustness to transient events and actuation noise through **perturbatio
   *Robust Tactile Slip Detection under Manipulation Perturbations*
   Théo Ayral, Saifeddine Aloui, Mathieu Grossard
   
----
 
 ### C3 — Closed-loop adaptation of grasp forces
 Stabilize **multi-fingered grasps** by injecting **internal forces** based on tactile feedback, without relying on explicit friction models.
@@ -278,7 +277,7 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 
 - **Demo (minimal runnable example):** [https://github.com/thayral/tactile-slip-demo](https://github.com/thayral/tactile-slip-demo)
 - **Training / research code (implementation details):** soon
-- **Slides (full, for deep dive):** [https://thayral.github.io/phd-defense-slides/](https://thayral.github.io/phd-defense-slides/)
+- **PhD defense slides:** [https://thayral.github.io/phd-defense-slides/](https://thayral.github.io/phd-defense-slides/)
 - **Thesis manuscript (PDF):** [https://theses.hal.science/tel-05468226](https://theses.hal.science/tel-05468226)
 
 
