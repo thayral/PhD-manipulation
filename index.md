@@ -253,9 +253,10 @@ Improve robustness to transient events and actuation noise through **perturbatio
 Stabilize **multi-fingered grasps** by injecting **internal forces** based on tactile feedback, without relying on explicit friction models.
 
 **Related publications**
-- **ICRA 2026 (accepted)**  [https://arxiv.org/abs/2602.16127](https://arxiv.org/abs/2602.16127)   
+- **ICRA 2026 (accepted)**  
   *Reactive Slip Control in Multifingered Grasping: Hybrid Tactile Sensing and Internal-Force Optimization*  
-  Théo Ayral, Saifeddine Aloui, Mathieu Grossard
+  Théo Ayral, Saifeddine Aloui, Mathieu Grossard   
+  [https://arxiv.org/abs/2602.16127](https://arxiv.org/abs/2602.16127)     
 
 
 - **Patent application (2025)**  
