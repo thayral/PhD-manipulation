@@ -278,7 +278,7 @@ Stabilize **multi-fingered grasps** by injecting **internal forces** based on ta
 
 **Project page**
 - → Reactive slip control:  
-  [https://github.com/thayral/reactive-slip-control](https://thayral.github.io/reactive-slip-control/)
+  [https://thayral.github.io/reactive-slip-control](https://thayral.github.io/reactive-slip-control/)
 
 
 
