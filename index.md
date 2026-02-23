@@ -9,7 +9,6 @@ title: Learning-based slip detection for adaptive grasp control
 CEA (Leti & List) · Université Paris-Saclay
 
 
----
 <!-- ===== Research Banners ===== -->
 
 <p align="center">
@@ -20,11 +19,10 @@ CEA (Leti & List) · Université Paris-Saclay
     <img src="https://img.shields.io/badge/Manipulation-Reactive%20Slip%20Control-darkgreen?style=for-the-badge">
   </a>
   <a href="https://github.com/thayral/tactile-slip-demo">
-    <img src="https://img.shields.io/badge/Code-Demo%20Repository-black?style=flat-square">
+    <img src="https://img.shields.io/badge/Code-Demo%20Detectior-black?style=for-the-badgee">
   </a>
 </p>
 
-<!-- =========================== -->
 
 
 ---
