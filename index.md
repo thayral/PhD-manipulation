@@ -10,9 +10,28 @@ CEA (Leti & List) · Université Paris-Saclay
 
 
 ---
+<!-- ===== Research Banners ===== -->
+
+<p align="center">
+  <a href="https://thayral.github.io/tactile-slip-detection-pze/">
+    <img src="https://img.shields.io/badge/Tactile%20Perception-Slip%20Detection-blue?style=for-the-badge">
+  </a>
+  &nbsp;
+  <a href="https://github.com/thayral/reactive-slip-control">
+    <img src="https://img.shields.io/badge/Manipulation-Reactive%20Slip%20Control-darkgreen?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thayral/tactile-slip-demo">
+    <img src="https://img.shields.io/badge/Code-Demo%20Repository-black?style=flat-square">
+  </a>
+</p>
+
+<!-- =========================== -->
 
 
-
+---
 
 
 ## CONTEXT: TraceBot Project
