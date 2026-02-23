@@ -8,29 +8,23 @@ title: Learning-based slip detection for adaptive grasp control
 **PhD Thesis Project — Théo Ayral**  
 CEA (Leti & List) · Université Paris-Saclay
 
-<!-- ===== Research Banners ===== -->
-
-<p align="center">
+<p>
   <a href="https://thayral.github.io/tactile-slip-detection-pze/">
     <img src="https://img.shields.io/badge/Tactile%20Perception-Slip%20Detection-blue?style=for-the-badge">
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/thayral/tactile-slip-demo">
-    <img src="https://img.shields.io/badge/Demo-Code-black?style=flat-square">
+    <img hspace="8" src="https://img.shields.io/badge/Demo-Code-black?style=flat-square">
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://thayral.github.io/reactive-slip-control">
     <img src="https://img.shields.io/badge/Multifinger%20Control-Reactive%20Slip%20Control-darkgreen?style=for-the-badge">
   </a>
-  &nbsp;&nbsp;
   <a href="https://arxiv.org/abs/2602.16127">
-    <img src="https://img.shields.io/badge/Paper-ICRA%202026-b31b1b?style=flat-square">
+    <img hspace="8" src="https://img.shields.io/badge/Paper-ICRA%202026-b31b1b?style=flat-square">
   </a>
 </p>
-
-<!-- =========================== -->
 
 ---
 
