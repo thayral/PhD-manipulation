@@ -236,7 +236,7 @@ The contributions build on each other, following the narrative flow of the thesi
 
 
 ### C1 — Early slip detection from tactile vibrations
-Detect **incipient slip** from high-bandwidth tactile vibrations using learning-based spectro-temporal analysis, operating in **real time (100 Hz)**.
+Detect **incipient slip** from high-bandwidth tactile vibrations using learning-based spectro-temporal analysis, in **real time (100 Hz)**.
 
 **Related publications**
 - **AIM 2023 (published)**  
@@ -244,8 +244,8 @@ Detect **incipient slip** from high-bandwidth tactile vibrations using learning-
   Théo Ayral, Saifeddine Aloui, Mathieu Grossard
 
 **Project page**
-- → GitHub demo:  
-  [https://github.com/thayral/tactile-slip-demo](https://github.com/thayral/tactile-slip-demo)
+- → project page: [https://thayral.github.io/tactile-slip-detection-pze/](https://thayral.github.io/tactile-slip-detection-pze/)
+- → GitHub demo:  [https://github.com/thayral/tactile-slip-demo](https://github.com/thayral/tactile-slip-demo)
 
 
 
